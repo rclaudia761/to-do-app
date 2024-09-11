@@ -1,0 +1,93 @@
+.app {
+  padding: 20px;
+  /* text-align: center; */
+}
+
+.app.light {
+  background-color:#e6ecff ;
+  color: #0f1345;
+}
+
+.app.dark {
+  background-color: #121212;
+  color:#e6ecff ;
+}
+
+.link-text.light{
+  color: #000000;
+  text-decoration: 'none'
+}
+.link-text.dark{
+  color: #ffffff;
+  text-decoration: 'none'
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav button {
+  margin-left: 20px;
+}
+/* App.css */
+form {
+  margin-bottom: 20px;
+}
+
+form input {
+  padding: 8px;
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+form button {
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  padding: 8px;
+  /* border-bottom: 1px solid #ddd; */
+}
+/* App.css */
+button {
+  padding: 5px 10px;
+  margin-left: 10px;
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkred;
+}
+select {
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+select option {
+  font-size: 16px;
+}
+/* App.css */
+select {
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+select option {
+  font-size: 16px;
+}

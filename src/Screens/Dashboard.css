@@ -1,0 +1,19 @@
+/* Dashboard.css */
+.dashboard-container {
+    /* max-width: 800px; */
+    /* margin: 0 auto; */
+    /* padding: 20px; */
+    /* background-color: var(--background-color); */
+    /* border-radius: 8px; */
+    /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
+  }
+  
+  h1 {
+    /* text-align: center; */
+    /* color: var(--text-color); */
+  }
+  
+  .chart-container {
+    /* margin-top: 20px; */
+  }
+  
